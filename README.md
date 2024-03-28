@@ -1,7 +1,7 @@
 # cintel-04-local
 Move projects from web to local machine / cloud
 
-# Terminal Commands:
+### Terminal Commands:
 .venv\Scripts\Activate
 -> opens the virtual environment
 
